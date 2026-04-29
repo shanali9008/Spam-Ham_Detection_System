@@ -28,3 +28,8 @@ Although spam detection is a well-established problem, this project was develope
 <br>
 
 ## Dataset:
+link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+<br>
+
+## UI
+* Streamlit app
